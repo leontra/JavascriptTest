@@ -133,9 +133,10 @@ var double = (i) => {
     
     print to the console the text: `INFO Message`
     
-var logger = new Logger('INFO');
-logger.log('Message');
-
+```    
+   var logger = new Logger('INFO');
+   logger.log('Message');
+```
 
 11. Explain the difference between classical inheritance and prototypal inheritance.
 
