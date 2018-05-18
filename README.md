@@ -112,10 +112,12 @@ var double = function (i) {
   return i * 2;
 };
 ```
+The function:
+```
 var double = (i) => {
     return i * 2;
 }
-
+```
 
 10. Using the following code
     ```
